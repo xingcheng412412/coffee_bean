@@ -1,0 +1,15 @@
+uvloop==0.21.0
+pillow==10.2.0
+uvicorn==0.32.1
+fastapi==0.62.0
+httpx==0.25.1
+python-multipart==0.0.20
+numpy==1.26.3
+opencv-python==4.9.0.80
+matplotlib==3.8.2
+scikit-image==0.22.0
+cachetools==6.0.0
+celery==5.5.3
+redis==5.2.1
+msgpack==1.1.2
+pydantic==1.10.26

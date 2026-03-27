@@ -1,0 +1,3 @@
+FROM particle-core:local
+WORKDIR /app
+COPY . .
